@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "start": "serve",
-    "build": "scripts build"
+    "build": "static build"
   },
   "repository": {
     "type": "git",
